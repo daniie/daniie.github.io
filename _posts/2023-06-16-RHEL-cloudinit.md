@@ -1,8 +1,9 @@
 ---
-title: Cloud-Init for RHEL/CentOS/Rocky on Proxmox
-date: 2023-06-16 17:15:00 -500
+title: "Cloud-Init for RHEL/CentOS/Rocky on Proxmox"
+layout: post
+date: 2023-06-16 17:15:00
 categories: [proxmox]
-tags: [proxmox,rhel,cloud-init,rockylinux]     # TAG names should always be lowercase
+tags: [proxmox,rhel,cloud-init,rockylinux]
 ---
 
 # Cloud-Init for RHEL/CentOS/Rocky on Proxmox
