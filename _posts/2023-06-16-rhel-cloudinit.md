@@ -109,9 +109,7 @@ Attach the new disk to the virtual machine as a SCSI drive on the SCSI controlle
 qm set 8000 --scsihw virtio-scsi-pci --scsi0 local-lvm:vm-8000-disk-0
 ```
 
-**Step 11: Add Cloud-
-
-Init Drive**
+**Step 11: Add Cloud-Init Drive**
 
 Add the cloud-init drive to the virtual machine:
 
