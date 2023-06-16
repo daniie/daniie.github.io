@@ -1,8 +1,6 @@
 ---
 title: "Cloud-Init for RHEL/CentOS/Rocky on Proxmox"
-layout: post
-date: 2023-06-16 17:15:00
-published: true
+date: 2023-06-16 17:15:00 0200
 categories: [proxmox]
 tags: [proxmox,rhel,cloudinit,rockylinux]
 ---
