@@ -32,7 +32,7 @@ github:
   username: daniie # change to your github username
 
 twitter:
- username: twitter_username # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/130991725?s=400&u=54609b7da0def5a7533ad1a7d904f682057e7dbb&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
